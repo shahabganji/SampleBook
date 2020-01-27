@@ -1,6 +1,6 @@
 | Modifier(s)                            | Extends                      | Implements                                    |
 |----------------------------------------|------------------------------|-----------------------------------------------|
-| export | - | [IFileSystem](https://shahabganji.gitbook.io/sample/aot/system/interface/interfaces/ifilesystem) |
+| export | - | [IFileSystem](/sample/aot/system/interface/interfaces/ifilesystem) |
 
 # &#10025; Constructor(s)
 
@@ -282,7 +282,7 @@
 
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| - | [Encoding](https://shahabganji.gitbook.io/sample/aot/system/enum/interfaces/encoding) | ✘  | ✘ | ✘ |
+| - | [Encoding](/sample/aot/system/enum/interfaces/encoding) | ✘  | ✘ | ✘ |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _**&#10149; cache**_
 
@@ -326,16 +326,16 @@ false
 
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| - | [Encoding](https://shahabganji.gitbook.io/sample/aot/system/enum/interfaces/encoding) | ✘  | ✘ | ✘ |
-  
+| - | [Encoding](/sample/aot/system/enum/interfaces/encoding) | ✘  | ✘ | ✘ |
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _**&#10149; cache**_
-  
+
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
 | - | boolean | ✔  | ✘ | ✘ |
-  
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#9733; Initializer**
-  
+
 ```ts
 false
 ```
@@ -404,126 +404,126 @@ false
 
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| - | [Encoding](https://shahabganji.gitbook.io/sample/aot/system/enum/interfaces/encoding) | ✘  | ✘ | ✘ |
-  
+| - | [Encoding](/sample/aot/system/enum/interfaces/encoding) | ✘  | ✘ | ✘ |
+
 &nbsp;&nbsp; **&#10148; writeFileSync**
-  
+
 | Modifier(s)                              | Generator                          | Return Type                       |
 |------------------------------------------|:----------------------------------:|-----------------------------------|
 | public | ✘ | void |
-  
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#9733; Parameter(s)**
-  
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _**&#10149; path**_
-  
+
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
 | - | string | ✘  | ✘ | ✘ |
-  
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _**&#10149; content**_
-  
+
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
 | - | string | ✘  | ✘ | ✘ |
-  
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _**&#10149; encoding**_
-  
+
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| - | [Encoding](https://shahabganji.gitbook.io/sample/aot/system/enum/interfaces/encoding) | ✘  | ✘ | ✘ |
-    
+| - | [Encoding](/sample/aot/system/enum/interfaces/encoding) | ✘  | ✘ | ✘ |
+
 &nbsp;&nbsp; **&#10148; rimraf**
-    
+
 | Modifier(s)                              | Generator                          | Return Type                       |
 |------------------------------------------|:----------------------------------:|-----------------------------------|
 | public, async | ✘ | Promise&lt;void&gt; |
-    
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#9733; Parameter(s)**
-    
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _**&#10149; path**_
-    
+
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
 | - | string | ✘  | ✘ | ✘ |
-    
+
 &nbsp;&nbsp; **&#10148; getRealPath**
-    
+
 | Modifier(s)                              | Generator                          | Return Type                       |
 |------------------------------------------|:----------------------------------:|-----------------------------------|
 | public, async | ✘ | Promise&lt;string&gt; |
-    
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#9733; Parameter(s)**
-    
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _**&#10149; path**_
-    
+
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
 | - | string | ✘  | ✘ | ✘ |
-    
+
 &nbsp;&nbsp; **&#10148; getRealPathSync**
-    
+
 | Modifier(s)                              | Generator                          | Return Type                       |
 |------------------------------------------|:----------------------------------:|-----------------------------------|
 | public | ✘ | string |
-    
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#9733; Parameter(s)**
-    
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _**&#10149; path**_
-    
+
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
 | - | string | ✘  | ✘ | ✘ |
-    
+
 &nbsp;&nbsp; **&#10148; getChildren**
-    
+
 | Modifier(s)                              | Generator                          | Return Type                       |
 |------------------------------------------|:----------------------------------:|-----------------------------------|
 | public, async | ✘ | Promise&lt;string[]&gt; |
-    
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#9733; Parameter(s)**
-    
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _**&#10149; path**_
-    
+
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
 | - | string | ✘  | ✘ | ✘ |
-    
+
 &nbsp;&nbsp; **&#10148; getChildrenSync**
-    
+
 | Modifier(s)                              | Generator                          | Return Type                       |
 |------------------------------------------|:----------------------------------:|-----------------------------------|
 | public | ✘ | string[] |
-    
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#9733; Parameter(s)**
-    
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _**&#10149; path**_
-    
+
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
 | - | string | ✘  | ✘ | ✘ |
-    
+
 &nbsp;&nbsp; **&#10148; getFiles**
-    
+
 | Modifier(s)                              | Generator                          | Return Type                       |
 |------------------------------------------|:----------------------------------:|-----------------------------------|
-| public, async | ✘ | Promise&lt;[File](https://shahabganji.gitbook.io/sample/aot/system/class/file-system/file)[]&gt; |
-      
+| public, async | ✘ | Promise&lt;[File](/sample/aot/system/class/file-system/file)[]&gt; |
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#9733; Parameter(s)**
-      
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _**&#10149; root**_
-      
+
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
 | - | string | ✘  | ✘ | ✘ |
-      
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _**&#10149; loadContent**_
-      
+
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
 | - | boolean | ✔  | ✘ | ✘ |
-      
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#9733; Initializer**
-      
+
 ```ts
 false
 ```
@@ -532,24 +532,24 @@ false
 
 | Modifier(s)                              | Generator                          | Return Type                       |
 |------------------------------------------|:----------------------------------:|-----------------------------------|
-| public | ✘ | [File](https://shahabganji.gitbook.io/sample/aot/system/class/file-system/file)[] |
-  
+| public | ✘ | [File](/sample/aot/system/class/file-system/file)[] |
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#9733; Parameter(s)**
-  
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _**&#10149; root**_
-  
+
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
 | - | string | ✘  | ✘ | ✘ |
-  
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _**&#10149; loadContent**_
-  
+
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
 | - | boolean | ✔  | ✘ | ✘ |
-  
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#9733; Initializer**
-  
+
 ```ts
 false
 ```

@@ -1,6 +1,6 @@
 | Modifier(s)                            | Extends                      | Implements                                    |
 |----------------------------------------|------------------------------|-----------------------------------------------|
-| export | - | [ISourceFileProvider](https://shahabganji.gitbook.io/sample/aot/vm/variable/agent/isourcefileprovider) |
+| export | - | [ISourceFileProvider](/sample/aot/vm/variable/agent/isourcefileprovider) |
 
 # &#10025; Constructor(s)
 
@@ -14,7 +14,7 @@
 
 | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| [ServiceHost](https://shahabganji.gitbook.io/sample/aot/class/service-host/servicehost) | ✘  | ✘ | ✔ |
+| [ServiceHost](/sample/aot/class/service-host/servicehost) | ✘  | ✘ | ✔ |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#10149; dir**
 
@@ -28,7 +28,7 @@
 
 | Modifier(s)                              | Generator                          | Return Type                       |
 |------------------------------------------|:----------------------------------:|-----------------------------------|
-| public, async | ✘ | Promise&lt;readonly [$ESModule](https://shahabganji.gitbook.io/sample/aot/vm/ast/class/modules/usdesmodule)[]&gt; |
+| public, async | ✘ | Promise&lt;readonly [$ESModule](/sample/aot/vm/ast/class/modules/usdesmodule)[]&gt; |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#9733; Parameter(s)**
 
@@ -36,4 +36,4 @@
 
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| - | [ExecutionContext](https://shahabganji.gitbook.io/sample/aot/vm/class/realm/executioncontext)&lt;$EnvRec, $DeclarativeEnvRec &#124; $FunctionEnvRec &#124; $GlobalEnvRec &#124; $ModuleEnvRec&gt; | ✘  | ✘ | ✘ |
+| - | [ExecutionContext](/sample/aot/vm/class/realm/executioncontext)&lt;$EnvRec, $DeclarativeEnvRec &#124; $FunctionEnvRec &#124; $GlobalEnvRec &#124; $ModuleEnvRec&gt; | ✘  | ✘ | ✘ |

@@ -1,6 +1,6 @@
 | Modifier(s)                            | Extends                      | Implements                                    |
 |----------------------------------------|------------------------------|-----------------------------------------------|
-| export | - | [IFile](https://shahabganji.gitbook.io/sample/aot/system/interface/interfaces/ifile) |
+| export | - | [IFile](/sample/aot/system/interface/interfaces/ifile) |
 
 # &#10025; Constructor(s)
 
@@ -14,7 +14,7 @@
 
 | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| [IFileSystem](https://shahabganji.gitbook.io/sample/aot/system/interface/interfaces/ifilesystem) | ✘  | ✘ | ✔ |
+| [IFileSystem](/sample/aot/system/interface/interfaces/ifilesystem) | ✘  | ✘ | ✔ |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#10149; path**
 
@@ -69,7 +69,7 @@ Used for conventional matching, e.g. "try adding .js, .ts, /index.js", etc.
 
 | Modifier(s)                               | Optional                           | Type                         |
 |-------------------------------------------|:----------------------------------:|------------------------------|
-| public, readonly | ✘ | [FileKind](https://shahabganji.gitbook.io/sample/aot/system/enum/interfaces/filekind) |
+| public, readonly | ✘ | [FileKind](/sample/aot/system/enum/interfaces/filekind) |
 
 # &#10025; Method(s)
 

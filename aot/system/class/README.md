@@ -1,5 +1,5 @@
-|                                                                                                     |                                                                                             |
-| --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| [File](https://shahabganji.gitbook.io/sample/aot/system/class/file)                                 | [NPMPackage](https://shahabganji.gitbook.io/sample/aot/system/class/npmpackage)             |
-| [NPMPackageDependency](https://shahabganji.gitbook.io/sample/aot/system/class/npmpackagedependency) | [NPMPackageLoader](https://shahabganji.gitbook.io/sample/aot/system/class/npmpackageloader) |
-| [NodeFileSystem](https://shahabganji.gitbook.io/sample/aot/system/class/nodefilesystem)             | [PatternMatcher](https://shahabganji.gitbook.io/sample/aot/system/class/patternmatcher)     |
+|                                                                       |                                                               |
+| --------------------------------------------------------------------- | ------------------------------------------------------------- |
+| [File](/sample/aot/system/class/file)                                 | [NPMPackage](/sample/aot/system/class/npmpackage)             |
+| [NPMPackageDependency](/sample/aot/system/class/npmpackagedependency) | [NPMPackageLoader](/sample/aot/system/class/npmpackageloader) |
+| [NodeFileSystem](/sample/aot/system/class/nodefilesystem)             | [PatternMatcher](/sample/aot/system/class/patternmatcher)     |

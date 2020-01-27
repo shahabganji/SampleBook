@@ -14,7 +14,7 @@
 
 | Optional                           | Type                         |
 |:----------------------------------:|------------------------------|
-| ✘ | [FileKind](https://shahabganji.gitbook.io/sample/aot/system/enum/interfaces/filekind) |
+| ✘ | [FileKind](/sample/aot/system/enum/interfaces/filekind) |
 
 &nbsp;&nbsp; **&#10148; path**
 

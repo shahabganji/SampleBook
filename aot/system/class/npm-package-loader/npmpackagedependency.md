@@ -14,7 +14,7 @@
 
 | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| [NPMPackage](https://shahabganji.gitbook.io/sample/aot/system/class/npm-package-loader/npmpackage) | ✘  | ✘ | ✔ |
+| [NPMPackage](/sample/aot/system/class/npm-package-loader/npmpackage) | ✘  | ✘ | ✔ |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#10149; refName**
 
@@ -28,7 +28,7 @@
 
 | Modifier(s)                               | Optional                           | Type                         |
 |-------------------------------------------|:----------------------------------:|------------------------------|
-| private | ✘ | [NPMPackage](https://shahabganji.gitbook.io/sample/aot/system/class/npm-package-loader/npmpackage) &#124; undefined |
+| private | ✘ | [NPMPackage](/sample/aot/system/class/npm-package-loader/npmpackage) &#124; undefined |
 
 &nbsp;&nbsp; **&#10148; loadPromise**
 
@@ -42,7 +42,7 @@
 
 | Modifier(s)                              | Return Type                       |
 |------------------------------------------|-----------------------------------|
-| public | [NPMPackage](https://shahabganji.gitbook.io/sample/aot/system/class/npm-package-loader/npmpackage) |
+| public | [NPMPackage](/sample/aot/system/class/npm-package-loader/npmpackage) |
 
 # &#10025; Method(s)
 

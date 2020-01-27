@@ -2,11 +2,11 @@
 
 
 
-|                                                                                                     |                                                                                             |
-| --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| [File](https://shahabganji.gitbook.io/sample/aot/system/class/file)                                 | [NPMPackage](https://shahabganji.gitbook.io/sample/aot/system/class/npmpackage)             |
-| [NPMPackageDependency](https://shahabganji.gitbook.io/sample/aot/system/class/npmpackagedependency) | [NPMPackageLoader](https://shahabganji.gitbook.io/sample/aot/system/class/npmpackageloader) |
-| [NodeFileSystem](https://shahabganji.gitbook.io/sample/aot/system/class/nodefilesystem)             | [PatternMatcher](https://shahabganji.gitbook.io/sample/aot/system/class/patternmatcher)     |
+|                                                                       |                                                               |
+| --------------------------------------------------------------------- | ------------------------------------------------------------- |
+| [File](/sample/aot/system/class/file)                                 | [NPMPackage](/sample/aot/system/class/npmpackage)             |
+| [NPMPackageDependency](/sample/aot/system/class/npmpackagedependency) | [NPMPackageLoader](/sample/aot/system/class/npmpackageloader) |
+| [NodeFileSystem](/sample/aot/system/class/nodefilesystem)             | [PatternMatcher](/sample/aot/system/class/patternmatcher)     |
 
 
 
@@ -14,9 +14,9 @@
 
 
 
-|                                                                            |                                                                            |
-| -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| [Encoding](https://shahabganji.gitbook.io/sample/aot/system/enum/encoding) | [FileKind](https://shahabganji.gitbook.io/sample/aot/system/enum/filekind) |
+|                                              |                                              |
+| -------------------------------------------- | -------------------------------------------- |
+| [Encoding](/sample/aot/system/enum/encoding) | [FileKind](/sample/aot/system/enum/filekind) |
 
 
 
@@ -24,10 +24,10 @@
 
 
 
-|                                                                                                        |                                                                                |
-| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
-| [isRelativeModulePath](https://shahabganji.gitbook.io/sample/aot/system/function/isrelativemodulepath) | [joinPath](https://shahabganji.gitbook.io/sample/aot/system/function/joinpath) |
-| [resolvePath](https://shahabganji.gitbook.io/sample/aot/system/function/resolvepath)                   |                                                                                |
+|                                                                          |                                                  |
+| ------------------------------------------------------------------------ | ------------------------------------------------ |
+| [isRelativeModulePath](/sample/aot/system/function/isrelativemodulepath) | [joinPath](/sample/aot/system/function/joinpath) |
+| [resolvePath](/sample/aot/system/function/resolvepath)                   |                                                  |
 
 
 
@@ -35,16 +35,16 @@
 
 
 
-|                                                                                                   |                                                                                                 |
-| ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [$CompilerOptions](https://shahabganji.gitbook.io/sample/aot/system/interface/usdcompileroptions) | [BugsObject](https://shahabganji.gitbook.io/sample/aot/system/interface/bugsobject)             |
-| [CoreProperties](https://shahabganji.gitbook.io/sample/aot/system/interface/coreproperties)       | [Directories](https://shahabganji.gitbook.io/sample/aot/system/interface/directories)           |
-| [Dist](https://shahabganji.gitbook.io/sample/aot/system/interface/dist)                           | [EsnextObject](https://shahabganji.gitbook.io/sample/aot/system/interface/esnextobject)         |
-| [IDirent](https://shahabganji.gitbook.io/sample/aot/system/interface/idirent)                     | [IFile](https://shahabganji.gitbook.io/sample/aot/system/interface/ifile)                       |
-| [IFileSystem](https://shahabganji.gitbook.io/sample/aot/system/interface/ifilesystem)             | [IStats](https://shahabganji.gitbook.io/sample/aot/system/interface/istats)                     |
-| [License](https://shahabganji.gitbook.io/sample/aot/system/interface/license)                     | [Package](https://shahabganji.gitbook.io/sample/aot/system/interface/package)                   |
-| [PersonObject](https://shahabganji.gitbook.io/sample/aot/system/interface/personobject)           | [RepositoryObject](https://shahabganji.gitbook.io/sample/aot/system/interface/repositoryobject) |
-| [Scripts](https://shahabganji.gitbook.io/sample/aot/system/interface/scripts)                     |                                                                                                 |
+|                                                                     |                                                                   |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [$CompilerOptions](/sample/aot/system/interface/usdcompileroptions) | [BugsObject](/sample/aot/system/interface/bugsobject)             |
+| [CoreProperties](/sample/aot/system/interface/coreproperties)       | [Directories](/sample/aot/system/interface/directories)           |
+| [Dist](/sample/aot/system/interface/dist)                           | [EsnextObject](/sample/aot/system/interface/esnextobject)         |
+| [IDirent](/sample/aot/system/interface/idirent)                     | [IFile](/sample/aot/system/interface/ifile)                       |
+| [IFileSystem](/sample/aot/system/interface/ifilesystem)             | [IStats](/sample/aot/system/interface/istats)                     |
+| [License](/sample/aot/system/interface/license)                     | [Package](/sample/aot/system/interface/package)                   |
+| [PersonObject](/sample/aot/system/interface/personobject)           | [RepositoryObject](/sample/aot/system/interface/repositoryobject) |
+| [Scripts](/sample/aot/system/interface/scripts)                     |                                                                   |
 
 
 
@@ -52,8 +52,8 @@
 
 
 
-|                                                                                      |                                                                                          |
-| ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
-| [IFileSystem](https://shahabganji.gitbook.io/sample/aot/system/variable/ifilesystem) | [normalizePath](https://shahabganji.gitbook.io/sample/aot/system/variable/normalizepath) |
+|                                                        |                                                            |
+| ------------------------------------------------------ | ---------------------------------------------------------- |
+| [IFileSystem](/sample/aot/system/variable/ifilesystem) | [normalizePath](/sample/aot/system/variable/normalizepath) |
 
 

@@ -50,7 +50,7 @@
 
 | Return Type                       |
 |-----------------------------------|
-| Promise&lt;readonly [IDirent](https://shahabganji.gitbook.io/sample/aot/system/interface/interfaces/idirent)[]&gt; |
+| Promise&lt;readonly [IDirent](/sample/aot/system/interface/interfaces/idirent)[]&gt; |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#9733; Parameter(s)**
 
@@ -84,7 +84,7 @@
 
 | Return Type                       |
 |-----------------------------------|
-| readonly [IDirent](https://shahabganji.gitbook.io/sample/aot/system/interface/interfaces/idirent)[] |
+| readonly [IDirent](/sample/aot/system/interface/interfaces/idirent)[] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#9733; Parameter(s)**
 
@@ -188,7 +188,7 @@
 
 | Return Type                       |
 |-----------------------------------|
-| Promise&lt;[IStats](https://shahabganji.gitbook.io/sample/aot/system/interface/interfaces/istats)&gt; |
+| Promise&lt;[IStats](/sample/aot/system/interface/interfaces/istats)&gt; |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#9733; Parameter(s)**
 
@@ -202,7 +202,7 @@
 
 | Return Type                       |
 |-----------------------------------|
-| [IStats](https://shahabganji.gitbook.io/sample/aot/system/interface/interfaces/istats) |
+| [IStats](/sample/aot/system/interface/interfaces/istats) |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#9733; Parameter(s)**
 
@@ -216,7 +216,7 @@
 
 | Return Type                       |
 |-----------------------------------|
-| Promise&lt;[IStats](https://shahabganji.gitbook.io/sample/aot/system/interface/interfaces/istats)&gt; |
+| Promise&lt;[IStats](/sample/aot/system/interface/interfaces/istats)&gt; |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#9733; Parameter(s)**
 
@@ -230,7 +230,7 @@
 
 | Return Type                       |
 |-----------------------------------|
-| [IStats](https://shahabganji.gitbook.io/sample/aot/system/interface/interfaces/istats) |
+| [IStats](/sample/aot/system/interface/interfaces/istats) |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#9733; Parameter(s)**
 
@@ -458,7 +458,7 @@
 
 | Return Type                       |
 |-----------------------------------|
-| Promise&lt;readonly [IFile](https://shahabganji.gitbook.io/sample/aot/system/interface/interfaces/ifile)[]&gt; |
+| Promise&lt;readonly [IFile](/sample/aot/system/interface/interfaces/ifile)[]&gt; |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#9733; Parameter(s)**
 
@@ -478,7 +478,7 @@
 
 | Return Type                       |
 |-----------------------------------|
-| readonly [IFile](https://shahabganji.gitbook.io/sample/aot/system/interface/interfaces/ifile)[] |
+| readonly [IFile](/sample/aot/system/interface/interfaces/ifile)[] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#9733; Parameter(s)**
 

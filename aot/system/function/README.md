@@ -1,4 +1,4 @@
-|                                                                                                        |                                                                                |
-| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
-| [isRelativeModulePath](https://shahabganji.gitbook.io/sample/aot/system/function/isrelativemodulepath) | [joinPath](https://shahabganji.gitbook.io/sample/aot/system/function/joinpath) |
-| [resolvePath](https://shahabganji.gitbook.io/sample/aot/system/function/resolvepath)                   |                                                                                |
+|                                                                          |                                                  |
+| ------------------------------------------------------------------------ | ------------------------------------------------ |
+| [isRelativeModulePath](/sample/aot/system/function/isrelativemodulepath) | [joinPath](/sample/aot/system/function/joinpath) |
+| [resolvePath](/sample/aot/system/function/resolvepath)                   |                                                  |
