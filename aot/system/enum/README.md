@@ -1,3 +1,3 @@
-|                                       |                                       |
-| ------------------------------------- | ------------------------------------- |
-| [Encoding](/aot/system/enum/encoding) | [FileKind](/aot/system/enum/filekind) |
+|                                                                            |                                                                            |
+| -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| [Encoding](https://shahabganji.gitbook.io/sample/aot/system/enum/encoding) | [FileKind](https://shahabganji.gitbook.io/sample/aot/system/enum/filekind) |

@@ -20,7 +20,7 @@
 
 | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| [$CompilerOptions](/aot/system/interface/interfaces/usdcompileroptions) | ✘  | ✘ | ✔ |
+| [$CompilerOptions](https://shahabganji.gitbook.io/sample/aot/system/interface/interfaces/usdcompileroptions) | ✘  | ✘ | ✔ |
 
 # &#10025; Property(ies)
 
@@ -48,7 +48,7 @@
 
 | Modifier(s)                              | Generator                          | Return Type                       |
 |------------------------------------------|:----------------------------------:|-----------------------------------|
-| public | ✘ | [IFile](/aot/system/interface/interfaces/ifile) |
+| public | ✘ | [IFile](https://shahabganji.gitbook.io/sample/aot/system/interface/interfaces/ifile) |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#9733; Parameter(s)**
 
@@ -56,7 +56,7 @@
 
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| - | readonly [IFile](/aot/system/interface/interfaces/ifile)[] | ✘  | ✘ | ✘ |
+| - | readonly [IFile](https://shahabganji.gitbook.io/sample/aot/system/interface/interfaces/ifile)[] | ✘  | ✘ | ✘ |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _**&#10149; specifier**_
 
@@ -68,7 +68,7 @@
 
 | Modifier(s)                              | Generator                          | Return Type                       |
 |------------------------------------------|:----------------------------------:|-----------------------------------|
-| public, static | ✘ | [PatternMatcher](/aot/system/class/pattern-matcher/patternmatcher) &#124; null |
+| public, static | ✘ | [PatternMatcher](https://shahabganji.gitbook.io/sample/aot/system/class/pattern-matcher/patternmatcher) &#124; null |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#9733; Parameter(s)**
 
@@ -76,7 +76,7 @@
 
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| - | [$CompilerOptions](/aot/system/interface/interfaces/usdcompileroptions) | ✘  | ✘ | ✘ |
+| - | [$CompilerOptions](https://shahabganji.gitbook.io/sample/aot/system/interface/interfaces/usdcompileroptions) | ✘  | ✘ | ✘ |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _**&#10149; container**_
 

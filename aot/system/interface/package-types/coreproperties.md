@@ -8,7 +8,7 @@
 
 | Optional                           | Type                         |
 |:----------------------------------:|------------------------------|
-| ✔ | string &#124; [PersonObject](/aot/system/interface/package-types/personobject) &#124; undefined |
+| ✔ | string &#124; [PersonObject](https://shahabganji.gitbook.io/sample/aot/system/interface/package-types/personobject) &#124; undefined |
 
 &nbsp;&nbsp; **&#10148; bin**
 
@@ -25,7 +25,7 @@ be reported. These are helpful for people who encounter issues with your package
 
 | Optional                           | Type                         |
 |:----------------------------------:|------------------------------|
-| ✔ | string &#124; [BugsObject](/aot/system/interface/package-types/bugsobject) &#124; undefined |
+| ✔ | string &#124; [BugsObject](https://shahabganji.gitbook.io/sample/aot/system/interface/package-types/bugsobject) &#124; undefined |
 
 &nbsp;&nbsp; **&#10148; config**
 
@@ -46,7 +46,7 @@ A list of people who contributed to this package.
 
 | Optional                           | Type                         |
 |:----------------------------------:|------------------------------|
-| ✔ | (string &#124; [PersonObject](/aot/system/interface/package-types/personobject))[] &#124; undefined |
+| ✔ | (string &#124; [PersonObject](https://shahabganji.gitbook.io/sample/aot/system/interface/package-types/personobject))[] &#124; undefined |
 
 &nbsp;&nbsp; **&#10148; cpu**
 
@@ -84,13 +84,13 @@ This helps people discover your package, as it's listed in 'npm search'.
 
 | Optional                           | Type                         |
 |:----------------------------------:|------------------------------|
-| ✔ | [Directories](/aot/system/interface/package-types/directories) &#124; undefined |
+| ✔ | [Directories](https://shahabganji.gitbook.io/sample/aot/system/interface/package-types/directories) &#124; undefined |
 
 &nbsp;&nbsp; **&#10148; dist**
 
 | Optional                           | Type                         |
 |:----------------------------------:|------------------------------|
-| ✔ | [Dist](/aot/system/interface/package-types/dist) &#124; undefined |
+| ✔ | [Dist](https://shahabganji.gitbook.io/sample/aot/system/interface/package-types/dist) &#124; undefined |
 
 &nbsp;&nbsp; **&#10148; engines**
 
@@ -112,7 +112,7 @@ A module ID with untranspiled code that is the primary entry point to your progr
 
 | Optional                           | Type                         |
 |:----------------------------------:|------------------------------|
-| ✔ | string &#124; [EsnextObject](/aot/system/interface/package-types/esnextobject) &#124; undefined |
+| ✔ | string &#124; [EsnextObject](https://shahabganji.gitbook.io/sample/aot/system/interface/package-types/esnextobject) &#124; undefined |
 
 &nbsp;&nbsp; **&#10148; files**
 
@@ -165,7 +165,7 @@ to use it, and any restrictions you're placing on it.
 
 | Optional                           | Type                         |
 |:----------------------------------:|------------------------------|
-| ✔ | [License](/aot/system/interface/package-types/license)[] &#124; undefined |
+| ✔ | [License](https://shahabganji.gitbook.io/sample/aot/system/interface/package-types/license)[] &#124; undefined |
 
 &nbsp;&nbsp; **&#10148; main**
 
@@ -185,7 +185,7 @@ A list of people who maintains this package.
 
 | Optional                           | Type                         |
 |:----------------------------------:|------------------------------|
-| ✔ | (string &#124; [PersonObject](/aot/system/interface/package-types/personobject))[] &#124; undefined |
+| ✔ | (string &#124; [PersonObject](https://shahabganji.gitbook.io/sample/aot/system/interface/package-types/personobject))[] &#124; undefined |
 
 &nbsp;&nbsp; **&#10148; man**
 
@@ -282,7 +282,7 @@ contribute.
 
 | Optional                           | Type                         |
 |:----------------------------------:|------------------------------|
-| ✔ | string &#124; [RepositoryObject](/aot/system/interface/package-types/repositoryobject) &#124; undefined |
+| ✔ | string &#124; [RepositoryObject](https://shahabganji.gitbook.io/sample/aot/system/interface/package-types/repositoryobject) &#124; undefined |
 
 &nbsp;&nbsp; **&#10148; scripts**
 
@@ -294,7 +294,7 @@ command to run at that point.
 
 | Optional                           | Type                         |
 |:----------------------------------:|------------------------------|
-| ✔ | [Scripts](/aot/system/interface/package-types/scripts) &#124; undefined |
+| ✔ | [Scripts](https://shahabganji.gitbook.io/sample/aot/system/interface/package-types/scripts) &#124; undefined |
 
 &nbsp;&nbsp; **&#10148; version**
 

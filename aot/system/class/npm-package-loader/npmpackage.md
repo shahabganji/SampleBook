@@ -14,25 +14,25 @@
 
 | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| [NPMPackageLoader](/aot/system/class/npm-package-loader/npmpackageloader) | ✘  | ✘ | ✔ |
+| [NPMPackageLoader](https://shahabganji.gitbook.io/sample/aot/system/class/npm-package-loader/npmpackageloader) | ✘  | ✘ | ✔ |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#10149; files**
 
 | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| readonly [IFile](/aot/system/interface/interfaces/ifile)[] | ✘  | ✘ | ✔ |
+| readonly [IFile](https://shahabganji.gitbook.io/sample/aot/system/interface/interfaces/ifile)[] | ✘  | ✘ | ✔ |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#10149; issuer**
 
 | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| [NPMPackageDependency](/aot/system/class/npm-package-loader/npmpackagedependency) &#124; null | ✘  | ✘ | ✔ |
+| [NPMPackageDependency](https://shahabganji.gitbook.io/sample/aot/system/class/npm-package-loader/npmpackagedependency) &#124; null | ✘  | ✘ | ✔ |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#10149; pkgJsonFile**
 
 | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| [IFile](/aot/system/interface/interfaces/ifile) | ✘  | ✘ | ✔ |
+| [IFile](https://shahabganji.gitbook.io/sample/aot/system/interface/interfaces/ifile) | ✘  | ✘ | ✔ |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#10149; dir**
 
@@ -52,7 +52,7 @@
 
 | Modifier(s)                               | Optional                           | Type                         |
 |-------------------------------------------|:----------------------------------:|------------------------------|
-| public, readonly | ✘ | [Package](/aot/system/interface/package-types/package) |
+| public, readonly | ✘ | [Package](https://shahabganji.gitbook.io/sample/aot/system/interface/package-types/package) |
 
 &nbsp;&nbsp; **&#10148; pkgName**
 
@@ -76,13 +76,13 @@
 
 | Modifier(s)                               | Optional                           | Type                         |
 |-------------------------------------------|:----------------------------------:|------------------------------|
-| public, readonly | ✘ | [IFile](/aot/system/interface/interfaces/ifile) |
+| public, readonly | ✘ | [IFile](https://shahabganji.gitbook.io/sample/aot/system/interface/interfaces/ifile) |
 
 &nbsp;&nbsp; **&#10148; deps**
 
 | Modifier(s)                               | Optional                           | Type                         |
 |-------------------------------------------|:----------------------------------:|------------------------------|
-| public, readonly | ✘ | readonly [NPMPackageDependency](/aot/system/class/npm-package-loader/npmpackagedependency)[] |
+| public, readonly | ✘ | readonly [NPMPackageDependency](https://shahabganji.gitbook.io/sample/aot/system/class/npm-package-loader/npmpackagedependency)[] |
 
 &nbsp;&nbsp; **&#10148; container**
 

@@ -1,6 +1,6 @@
 | Modifier(s)                            | Extends                      | Implements                                    |
 |----------------------------------------|------------------------------|-----------------------------------------------|
-| export | - | [IServiceHost](/aot/interface/service-host/iservicehost) |
+| export | - | [IServiceHost](https://shahabganji.gitbook.io/sample/aot/interface/service-host/iservicehost) |
 
 # &#10025; Constructor(s)
 
@@ -26,7 +26,7 @@
 
 | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| [IFileSystem](/aot/system/interface/interfaces/ifilesystem) | ✔  | ✘ | ✔ |
+| [IFileSystem](https://shahabganji.gitbook.io/sample/aot/system/interface/interfaces/ifilesystem) | ✔  | ✘ | ✔ |
 
 # &#10025; Property(ies)
 
@@ -40,25 +40,25 @@
 
 | Modifier(s)                               | Optional                           | Type                         |
 |-------------------------------------------|:----------------------------------:|------------------------------|
-| public, readonly | ✘ | [Agent](/aot/vm/class/agent/agent) |
+| public, readonly | ✘ | [Agent](https://shahabganji.gitbook.io/sample/aot/vm/class/agent/agent) |
 
 &nbsp;&nbsp; **&#10148; compilerOptionsCache**
 
 | Modifier(s)                               | Optional                           | Type                         |
 |-------------------------------------------|:----------------------------------:|------------------------------|
-| public, readonly | ✘ | Map&lt;string, [$CompilerOptions](/aot/system/interface/interfaces/usdcompileroptions)&gt; |
+| public, readonly | ✘ | Map&lt;string, [$CompilerOptions](https://shahabganji.gitbook.io/sample/aot/system/interface/interfaces/usdcompileroptions)&gt; |
 
 &nbsp;&nbsp; **&#10148; moduleCache**
 
 | Modifier(s)                               | Optional                           | Type                         |
 |-------------------------------------------|:----------------------------------:|------------------------------|
-| public, readonly | ✘ | Map&lt;string, [IModule](/aot/vm/interface/realm/imodule)&gt; |
+| public, readonly | ✘ | Map&lt;string, [IModule](https://shahabganji.gitbook.io/sample/aot/vm/interface/realm/imodule)&gt; |
 
 &nbsp;&nbsp; **&#10148; scriptCache**
 
 | Modifier(s)                               | Optional                           | Type                         |
 |-------------------------------------------|:----------------------------------:|------------------------------|
-| public, readonly | ✘ | Map&lt;string, [$ESScript](/aot/vm/ast/class/modules/usdesscript)&gt; |
+| public, readonly | ✘ | Map&lt;string, [$ESScript](https://shahabganji.gitbook.io/sample/aot/vm/ast/class/modules/usdesscript)&gt; |
 
 # &#10025; Get Accessor(s)
 
@@ -74,7 +74,7 @@
 
 | Modifier(s)                              | Generator                          | Return Type                       |
 |------------------------------------------|:----------------------------------:|-----------------------------------|
-| public, async | ✘ | Promise&lt;[$ESModule](/aot/vm/ast/class/modules/usdesmodule)&gt; |
+| public, async | ✘ | Promise&lt;[$ESModule](https://shahabganji.gitbook.io/sample/aot/vm/ast/class/modules/usdesmodule)&gt; |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#9733; Parameter(s)**
 
@@ -82,7 +82,7 @@
 
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| - | [ExecutionContext](/aot/vm/class/realm/executioncontext)&lt;$EnvRec, $DeclarativeEnvRec &#124; $FunctionEnvRec &#124; $GlobalEnvRec &#124; $ModuleEnvRec&gt; | ✘  | ✘ | ✘ |
+| - | [ExecutionContext](https://shahabganji.gitbook.io/sample/aot/vm/class/realm/executioncontext)&lt;$EnvRec, $DeclarativeEnvRec &#124; $FunctionEnvRec &#124; $GlobalEnvRec &#124; $ModuleEnvRec&gt; | ✘  | ✘ | ✘ |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _**&#10149; dir**_
 
@@ -102,13 +102,13 @@
 
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| - | [ExecutionContext](/aot/vm/class/realm/executioncontext)&lt;$EnvRec, $DeclarativeEnvRec &#124; $FunctionEnvRec &#124; $GlobalEnvRec &#124; $ModuleEnvRec&gt; | ✘  | ✘ | ✘ |
+| - | [ExecutionContext](https://shahabganji.gitbook.io/sample/aot/vm/class/realm/executioncontext)&lt;$EnvRec, $DeclarativeEnvRec &#124; $FunctionEnvRec &#124; $GlobalEnvRec &#124; $ModuleEnvRec&gt; | ✘  | ✘ | ✘ |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _**&#10149; file**_
 
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| - | [IFile](/aot/system/interface/interfaces/ifile) | ✘  | ✘ | ✘ |
+| - | [IFile](https://shahabganji.gitbook.io/sample/aot/system/interface/interfaces/ifile) | ✘  | ✘ | ✘ |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _**&#10149; mode**_
 
@@ -142,7 +142,7 @@
 
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| - | [IFile](/aot/system/interface/interfaces/ifile) | ✘  | ✘ | ✘ |
+| - | [IFile](https://shahabganji.gitbook.io/sample/aot/system/interface/interfaces/ifile) | ✘  | ✘ | ✘ |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _**&#10149; mode**_
 
@@ -162,7 +162,7 @@
 
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| - | [ISourceFileProvider](/aot/vm/variable/agent/isourcefileprovider) | ✘  | ✘ | ✘ |
+| - | [ISourceFileProvider](https://shahabganji.gitbook.io/sample/aot/vm/variable/agent/isourcefileprovider) | ✘  | ✘ | ✘ |
 
 &nbsp;&nbsp; **&#10148; ResolveImportedModule**
 
@@ -172,7 +172,7 @@ http:www.ecma-international.org/ecma-262/#sec-hostresolveimportedmodule
 
 | Modifier(s)                              | Generator                          | Return Type                       |
 |------------------------------------------|:----------------------------------:|-----------------------------------|
-| public | ✘ | [IModule](/aot/vm/interface/realm/imodule) &#124; [$Error](/aot/vm/types/class/error/usderror)&lt;Error, string&gt; |
+| public | ✘ | [IModule](https://shahabganji.gitbook.io/sample/aot/vm/interface/realm/imodule) &#124; [$Error](https://shahabganji.gitbook.io/sample/aot/vm/types/class/error/usderror)&lt;Error, string&gt; |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#9733; Parameter(s)**
 
@@ -180,19 +180,19 @@ http:www.ecma-international.org/ecma-262/#sec-hostresolveimportedmodule
 
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| - | [ExecutionContext](/aot/vm/class/realm/executioncontext)&lt;$EnvRec, $DeclarativeEnvRec &#124; $FunctionEnvRec &#124; $GlobalEnvRec &#124; $ModuleEnvRec&gt; | ✘  | ✘ | ✘ |
+| - | [ExecutionContext](https://shahabganji.gitbook.io/sample/aot/vm/class/realm/executioncontext)&lt;$EnvRec, $DeclarativeEnvRec &#124; $FunctionEnvRec &#124; $GlobalEnvRec &#124; $ModuleEnvRec&gt; | ✘  | ✘ | ✘ |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _**&#10149; referencingModule**_
 
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| - | [$ESModule](/aot/vm/ast/class/modules/usdesmodule) | ✘  | ✘ | ✘ |
+| - | [$ESModule](https://shahabganji.gitbook.io/sample/aot/vm/ast/class/modules/usdesmodule) | ✘  | ✘ | ✘ |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _**&#10149; $specifier**_
 
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| - | [$String](/aot/vm/types/class/string/usdstring)&lt;string&gt; | ✘  | ✘ | ✘ |
+| - | [$String](https://shahabganji.gitbook.io/sample/aot/vm/types/class/string/usdstring)&lt;string&gt; | ✘  | ✘ | ✘ |
 
 &nbsp;&nbsp; **&#10148; dispose**
 
@@ -212,7 +212,7 @@ http:www.ecma-international.org/ecma-262/#sec-hostresolveimportedmodule
 
 | Modifier(s)                              | Generator                          | Return Type                       |
 |------------------------------------------|:----------------------------------:|-----------------------------------|
-| private | ✘ | Promise&lt;[NPMPackage](/aot/system/class/npm-package-loader/npmpackage)&gt; |
+| private | ✘ | Promise&lt;[NPMPackage](https://shahabganji.gitbook.io/sample/aot/system/class/npm-package-loader/npmpackage)&gt; |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#9733; Parameter(s)**
 
@@ -226,7 +226,7 @@ http:www.ecma-international.org/ecma-262/#sec-hostresolveimportedmodule
 
 | Modifier(s)                              | Generator                          | Return Type                       |
 |------------------------------------------|:----------------------------------:|-----------------------------------|
-| private | ✘ | [$DocumentFragment](/aot/vm/ast/class/modules/usddocumentfragment) |
+| private | ✘ | [$DocumentFragment](https://shahabganji.gitbook.io/sample/aot/vm/ast/class/modules/usddocumentfragment) |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#9733; Parameter(s)**
 
@@ -234,25 +234,25 @@ http:www.ecma-international.org/ecma-262/#sec-hostresolveimportedmodule
 
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| - | [ExecutionContext](/aot/vm/class/realm/executioncontext)&lt;$EnvRec, $DeclarativeEnvRec &#124; $FunctionEnvRec &#124; $GlobalEnvRec &#124; $ModuleEnvRec&gt; | ✘  | ✘ | ✘ |
+| - | [ExecutionContext](https://shahabganji.gitbook.io/sample/aot/vm/class/realm/executioncontext)&lt;$EnvRec, $DeclarativeEnvRec &#124; $FunctionEnvRec &#124; $GlobalEnvRec &#124; $ModuleEnvRec&gt; | ✘  | ✘ | ✘ |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _**&#10149; file**_
 
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| - | [IFile](/aot/system/interface/interfaces/ifile) | ✘  | ✘ | ✘ |
+| - | [IFile](https://shahabganji.gitbook.io/sample/aot/system/interface/interfaces/ifile) | ✘  | ✘ | ✘ |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _**&#10149; pkg**_
 
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| - | [NPMPackage](/aot/system/class/npm-package-loader/npmpackage) | ✘  | ✘ | ✘ |
+| - | [NPMPackage](https://shahabganji.gitbook.io/sample/aot/system/class/npm-package-loader/npmpackage) | ✘  | ✘ | ✘ |
 
 &nbsp;&nbsp; **&#10148; getESScript**
 
 | Modifier(s)                              | Generator                          | Return Type                       |
 |------------------------------------------|:----------------------------------:|-----------------------------------|
-| private | ✘ | [$ESScript](/aot/vm/ast/class/modules/usdesscript) |
+| private | ✘ | [$ESScript](https://shahabganji.gitbook.io/sample/aot/vm/ast/class/modules/usdesscript) |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#9733; Parameter(s)**
 
@@ -260,19 +260,19 @@ http:www.ecma-international.org/ecma-262/#sec-hostresolveimportedmodule
 
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| - | [ExecutionContext](/aot/vm/class/realm/executioncontext)&lt;$EnvRec, $DeclarativeEnvRec &#124; $FunctionEnvRec &#124; $GlobalEnvRec &#124; $ModuleEnvRec&gt; | ✘  | ✘ | ✘ |
+| - | [ExecutionContext](https://shahabganji.gitbook.io/sample/aot/vm/class/realm/executioncontext)&lt;$EnvRec, $DeclarativeEnvRec &#124; $FunctionEnvRec &#124; $GlobalEnvRec &#124; $ModuleEnvRec&gt; | ✘  | ✘ | ✘ |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _**&#10149; file**_
 
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| - | [IFile](/aot/system/interface/interfaces/ifile) | ✘  | ✘ | ✘ |
+| - | [IFile](https://shahabganji.gitbook.io/sample/aot/system/interface/interfaces/ifile) | ✘  | ✘ | ✘ |
 
 &nbsp;&nbsp; **&#10148; getESModule**
 
 | Modifier(s)                              | Generator                          | Return Type                       |
 |------------------------------------------|:----------------------------------:|-----------------------------------|
-| private | ✘ | [$ESModule](/aot/vm/ast/class/modules/usdesmodule) |
+| private | ✘ | [$ESModule](https://shahabganji.gitbook.io/sample/aot/vm/ast/class/modules/usdesmodule) |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#9733; Parameter(s)**
 
@@ -280,25 +280,25 @@ http:www.ecma-international.org/ecma-262/#sec-hostresolveimportedmodule
 
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| - | [ExecutionContext](/aot/vm/class/realm/executioncontext)&lt;$EnvRec, $DeclarativeEnvRec &#124; $FunctionEnvRec &#124; $GlobalEnvRec &#124; $ModuleEnvRec&gt; | ✘  | ✘ | ✘ |
+| - | [ExecutionContext](https://shahabganji.gitbook.io/sample/aot/vm/class/realm/executioncontext)&lt;$EnvRec, $DeclarativeEnvRec &#124; $FunctionEnvRec &#124; $GlobalEnvRec &#124; $ModuleEnvRec&gt; | ✘  | ✘ | ✘ |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _**&#10149; file**_
 
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| - | [IFile](/aot/system/interface/interfaces/ifile) | ✘  | ✘ | ✘ |
+| - | [IFile](https://shahabganji.gitbook.io/sample/aot/system/interface/interfaces/ifile) | ✘  | ✘ | ✘ |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _**&#10149; pkg**_
 
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| - | [NPMPackage](/aot/system/class/npm-package-loader/npmpackage) &#124; null | ✘  | ✘ | ✘ |
+| - | [NPMPackage](https://shahabganji.gitbook.io/sample/aot/system/class/npm-package-loader/npmpackage) &#124; null | ✘  | ✘ | ✘ |
 
 &nbsp;&nbsp; **&#10148; getCompilerOptions**
 
 | Modifier(s)                              | Generator                          | Return Type                       |
 |------------------------------------------|:----------------------------------:|-----------------------------------|
-| private | ✘ | [$CompilerOptions](/aot/system/interface/interfaces/usdcompileroptions) |
+| private | ✘ | [$CompilerOptions](https://shahabganji.gitbook.io/sample/aot/system/interface/interfaces/usdcompileroptions) |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#9733; Parameter(s)**
 
@@ -312,4 +312,4 @@ http:www.ecma-international.org/ecma-262/#sec-hostresolveimportedmodule
 
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| - | [NPMPackage](/aot/system/class/npm-package-loader/npmpackage) &#124; null | ✘  | ✘ | ✘ |
+| - | [NPMPackage](https://shahabganji.gitbook.io/sample/aot/system/class/npm-package-loader/npmpackage) &#124; null | ✘  | ✘ | ✘ |

@@ -1,6 +1,6 @@
 | Modifier(s)                            | Extends                      | Implements                                    |
 |----------------------------------------|------------------------------|-----------------------------------------------|
-| export | - | [ISourceFileProvider](/aot/vm/variable/agent/isourcefileprovider) |
+| export | - | [ISourceFileProvider](https://shahabganji.gitbook.io/sample/aot/vm/variable/agent/isourcefileprovider) |
 
 # &#10025; Constructor(s)
 
@@ -14,13 +14,13 @@
 
 | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| [ServiceHost](/aot/class/service-host/servicehost) | ✘  | ✘ | ✔ |
+| [ServiceHost](https://shahabganji.gitbook.io/sample/aot/class/service-host/servicehost) | ✘  | ✘ | ✔ |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#10149; file**
 
 | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| [IFile](/aot/system/interface/interfaces/ifile) | ✘  | ✘ | ✔ |
+| [IFile](https://shahabganji.gitbook.io/sample/aot/system/interface/interfaces/ifile) | ✘  | ✘ | ✔ |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#10149; mode**
 
@@ -42,4 +42,4 @@
 
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| - | [ExecutionContext](/aot/vm/class/realm/executioncontext)&lt;$EnvRec, $DeclarativeEnvRec &#124; $FunctionEnvRec &#124; $GlobalEnvRec &#124; $ModuleEnvRec&gt; | ✘  | ✘ | ✘ |
+| - | [ExecutionContext](https://shahabganji.gitbook.io/sample/aot/vm/class/realm/executioncontext)&lt;$EnvRec, $DeclarativeEnvRec &#124; $FunctionEnvRec &#124; $GlobalEnvRec &#124; $ModuleEnvRec&gt; | ✘  | ✘ | ✘ |

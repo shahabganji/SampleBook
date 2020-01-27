@@ -2,13 +2,13 @@
 
 
 
-|                                                                     |                                                                |
-| ------------------------------------------------------------------- | -------------------------------------------------------------- |
-| [EntrySourceFileProvider](/aot/class/entrysourcefileprovider)       | [File](/aot/system/class/file)                                 |
-| [NPMPackage](/aot/system/class/npmpackage)                          | [NPMPackageDependency](/aot/system/class/npmpackagedependency) |
-| [NPMPackageLoader](/aot/system/class/npmpackageloader)              | [NodeFileSystem](/aot/system/class/nodefilesystem)             |
-| [PatternMatcher](/aot/system/class/patternmatcher)                  | [ServiceHost](/aot/class/servicehost)                          |
-| [SpecificSourceFileProvider](/aot/class/specificsourcefileprovider) |                                                                |
+|                                                                                                          |                                                                                                     |
+| -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| [EntrySourceFileProvider](https://shahabganji.gitbook.io/sample/aot/class/entrysourcefileprovider)       | [File](https://shahabganji.gitbook.io/sample/aot/system/class/file)                                 |
+| [NPMPackage](https://shahabganji.gitbook.io/sample/aot/system/class/npmpackage)                          | [NPMPackageDependency](https://shahabganji.gitbook.io/sample/aot/system/class/npmpackagedependency) |
+| [NPMPackageLoader](https://shahabganji.gitbook.io/sample/aot/system/class/npmpackageloader)              | [NodeFileSystem](https://shahabganji.gitbook.io/sample/aot/system/class/nodefilesystem)             |
+| [PatternMatcher](https://shahabganji.gitbook.io/sample/aot/system/class/patternmatcher)                  | [ServiceHost](https://shahabganji.gitbook.io/sample/aot/class/servicehost)                          |
+| [SpecificSourceFileProvider](https://shahabganji.gitbook.io/sample/aot/class/specificsourcefileprovider) |                                                                                                     |
 
 
 
@@ -16,9 +16,9 @@
 
 
 
-|                                       |                                       |
-| ------------------------------------- | ------------------------------------- |
-| [Encoding](/aot/system/enum/encoding) | [FileKind](/aot/system/enum/filekind) |
+|                                                                            |                                                                            |
+| -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| [Encoding](https://shahabganji.gitbook.io/sample/aot/system/enum/encoding) | [FileKind](https://shahabganji.gitbook.io/sample/aot/system/enum/filekind) |
 
 
 
@@ -26,10 +26,10 @@
 
 
 
-|                                                                   |                                           |
-| ----------------------------------------------------------------- | ----------------------------------------- |
-| [isRelativeModulePath](/aot/system/function/isrelativemodulepath) | [joinPath](/aot/system/function/joinpath) |
-| [resolvePath](/aot/system/function/resolvepath)                   |                                           |
+|                                                                                                        |                                                                                |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| [isRelativeModulePath](https://shahabganji.gitbook.io/sample/aot/system/function/isrelativemodulepath) | [joinPath](https://shahabganji.gitbook.io/sample/aot/system/function/joinpath) |
+| [resolvePath](https://shahabganji.gitbook.io/sample/aot/system/function/resolvepath)                   |                                                                                |
 
 
 
@@ -37,17 +37,17 @@
 
 
 
-|                                                              |                                                            |
-| ------------------------------------------------------------ | ---------------------------------------------------------- |
-| [$CompilerOptions](/aot/system/interface/usdcompileroptions) | [BugsObject](/aot/system/interface/bugsobject)             |
-| [CoreProperties](/aot/system/interface/coreproperties)       | [Directories](/aot/system/interface/directories)           |
-| [Dist](/aot/system/interface/dist)                           | [EsnextObject](/aot/system/interface/esnextobject)         |
-| [IDirent](/aot/system/interface/idirent)                     | [IFile](/aot/system/interface/ifile)                       |
-| [IFileSystem](/aot/system/interface/ifilesystem)             | [IModuleResolver](/aot/interface/imoduleresolver)          |
-| [IServiceHost](/aot/interface/iservicehost)                  | [IStats](/aot/system/interface/istats)                     |
-| [License](/aot/system/interface/license)                     | [Package](/aot/system/interface/package)                   |
-| [PersonObject](/aot/system/interface/personobject)           | [RepositoryObject](/aot/system/interface/repositoryobject) |
-| [Scripts](/aot/system/interface/scripts)                     |                                                            |
+|                                                                                                   |                                                                                                 |
+| ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| [$CompilerOptions](https://shahabganji.gitbook.io/sample/aot/system/interface/usdcompileroptions) | [BugsObject](https://shahabganji.gitbook.io/sample/aot/system/interface/bugsobject)             |
+| [CoreProperties](https://shahabganji.gitbook.io/sample/aot/system/interface/coreproperties)       | [Directories](https://shahabganji.gitbook.io/sample/aot/system/interface/directories)           |
+| [Dist](https://shahabganji.gitbook.io/sample/aot/system/interface/dist)                           | [EsnextObject](https://shahabganji.gitbook.io/sample/aot/system/interface/esnextobject)         |
+| [IDirent](https://shahabganji.gitbook.io/sample/aot/system/interface/idirent)                     | [IFile](https://shahabganji.gitbook.io/sample/aot/system/interface/ifile)                       |
+| [IFileSystem](https://shahabganji.gitbook.io/sample/aot/system/interface/ifilesystem)             | [IModuleResolver](https://shahabganji.gitbook.io/sample/aot/interface/imoduleresolver)          |
+| [IServiceHost](https://shahabganji.gitbook.io/sample/aot/interface/iservicehost)                  | [IStats](https://shahabganji.gitbook.io/sample/aot/system/interface/istats)                     |
+| [License](https://shahabganji.gitbook.io/sample/aot/system/interface/license)                     | [Package](https://shahabganji.gitbook.io/sample/aot/system/interface/package)                   |
+| [PersonObject](https://shahabganji.gitbook.io/sample/aot/system/interface/personobject)           | [RepositoryObject](https://shahabganji.gitbook.io/sample/aot/system/interface/repositoryobject) |
+| [Scripts](https://shahabganji.gitbook.io/sample/aot/system/interface/scripts)                     |                                                                                                 |
 
 
 
@@ -55,8 +55,8 @@
 
 
 
-|                                                 |                                                     |
-| ----------------------------------------------- | --------------------------------------------------- |
-| [IFileSystem](/aot/system/variable/ifilesystem) | [normalizePath](/aot/system/variable/normalizepath) |
+|                                                                                      |                                                                                          |
+| ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
+| [IFileSystem](https://shahabganji.gitbook.io/sample/aot/system/variable/ifilesystem) | [normalizePath](https://shahabganji.gitbook.io/sample/aot/system/variable/normalizepath) |
 
 

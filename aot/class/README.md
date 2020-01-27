@@ -1,4 +1,4 @@
-|                                                                     |                                       |
-| ------------------------------------------------------------------- | ------------------------------------- |
-| [EntrySourceFileProvider](/aot/class/entrysourcefileprovider)       | [ServiceHost](/aot/class/servicehost) |
-| [SpecificSourceFileProvider](/aot/class/specificsourcefileprovider) |                                       |
+|                                                                                                          |                                                                            |
+| -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| [EntrySourceFileProvider](https://shahabganji.gitbook.io/sample/aot/class/entrysourcefileprovider)       | [ServiceHost](https://shahabganji.gitbook.io/sample/aot/class/servicehost) |
+| [SpecificSourceFileProvider](https://shahabganji.gitbook.io/sample/aot/class/specificsourcefileprovider) |                                                                            |

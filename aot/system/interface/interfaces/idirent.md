@@ -1,6 +1,6 @@
 | Modifier(s)                            | Extends                                    |
 |----------------------------------------|--------------------------------------------|
-| export | [IStats](/aot/system/interface/interfaces/istats) |
+| export | [IStats](https://shahabganji.gitbook.io/sample/aot/system/interface/interfaces/istats) |
 
 # &#10025; Property(ies)
 

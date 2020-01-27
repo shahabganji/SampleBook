@@ -1,3 +1,3 @@
-|                                                 |                                                     |
-| ----------------------------------------------- | --------------------------------------------------- |
-| [IFileSystem](/aot/system/variable/ifilesystem) | [normalizePath](/aot/system/variable/normalizepath) |
+|                                                                                      |                                                                                          |
+| ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
+| [IFileSystem](https://shahabganji.gitbook.io/sample/aot/system/variable/ifilesystem) | [normalizePath](https://shahabganji.gitbook.io/sample/aot/system/variable/normalizepath) |

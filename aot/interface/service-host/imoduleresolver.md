@@ -8,7 +8,7 @@
 
 | Return Type                       |
 |-----------------------------------|
-| [IModule](/aot/vm/interface/realm/imodule) &#124; [$Error](/aot/vm/types/class/error/usderror)&lt;Error, string&gt; |
+| [IModule](https://shahabganji.gitbook.io/sample/aot/vm/interface/realm/imodule) &#124; [$Error](https://shahabganji.gitbook.io/sample/aot/vm/types/class/error/usderror)&lt;Error, string&gt; |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#9733; Parameter(s)**
 

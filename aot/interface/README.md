@@ -1,3 +1,3 @@
-|                                                   |                                             |
-| ------------------------------------------------- | ------------------------------------------- |
-| [IModuleResolver](/aot/interface/imoduleresolver) | [IServiceHost](/aot/interface/iservicehost) |
+|                                                                                        |                                                                                  |
+| -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| [IModuleResolver](https://shahabganji.gitbook.io/sample/aot/interface/imoduleresolver) | [IServiceHost](https://shahabganji.gitbook.io/sample/aot/interface/iservicehost) |

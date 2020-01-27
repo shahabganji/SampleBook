@@ -26,7 +26,7 @@
 
 | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| [IFileSystem](/aot/system/interface/interfaces/ifilesystem) | ✘  | ✘ | ✔ |
+| [IFileSystem](https://shahabganji.gitbook.io/sample/aot/system/interface/interfaces/ifilesystem) | ✘  | ✘ | ✔ |
 
 # &#10025; Property(ies)
 
@@ -34,13 +34,13 @@
 
 | Modifier(s)                               | Optional                           | Type                         |
 |-------------------------------------------|:----------------------------------:|------------------------------|
-| private, readonly | ✘ | Map&lt;string, [NPMPackage](/aot/system/class/npm-package-loader/npmpackage)&gt; |
+| private, readonly | ✘ | Map&lt;string, [NPMPackage](https://shahabganji.gitbook.io/sample/aot/system/class/npm-package-loader/npmpackage)&gt; |
 
 &nbsp;&nbsp; **&#10148; pkgPromiseCache**
 
 | Modifier(s)                               | Optional                           | Type                         |
 |-------------------------------------------|:----------------------------------:|------------------------------|
-| private, readonly | ✘ | Map&lt;string, Promise&lt;[NPMPackage](/aot/system/class/npm-package-loader/npmpackage)&gt;&gt; |
+| private, readonly | ✘ | Map&lt;string, Promise&lt;[NPMPackage](https://shahabganji.gitbook.io/sample/aot/system/class/npm-package-loader/npmpackage)&gt;&gt; |
 
 &nbsp;&nbsp; **&#10148; pkgResolveCache**
 
@@ -68,7 +68,7 @@
 
 | Modifier(s)                              | Generator                          | Return Type                       |
 |------------------------------------------|:----------------------------------:|-----------------------------------|
-| public, async | ✘ | Promise&lt;[NPMPackage](/aot/system/class/npm-package-loader/npmpackage)&gt; |
+| public, async | ✘ | Promise&lt;[NPMPackage](https://shahabganji.gitbook.io/sample/aot/system/class/npm-package-loader/npmpackage)&gt; |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#9733; Parameter(s)**
 
@@ -82,7 +82,7 @@
 
 | Modifier(s)                              | Generator                          | Return Type                       |
 |------------------------------------------|:----------------------------------:|-----------------------------------|
-| public | ✘ | [NPMPackage](/aot/system/class/npm-package-loader/npmpackage) |
+| public | ✘ | [NPMPackage](https://shahabganji.gitbook.io/sample/aot/system/class/npm-package-loader/npmpackage) |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#9733; Parameter(s)**
 
@@ -96,7 +96,7 @@
 
 | Modifier(s)                              | Generator                          | Return Type                       |
 |------------------------------------------|:----------------------------------:|-----------------------------------|
-| private, async | ✘ | Promise&lt;[NPMPackage](/aot/system/class/npm-package-loader/npmpackage)&gt; |
+| private, async | ✘ | Promise&lt;[NPMPackage](https://shahabganji.gitbook.io/sample/aot/system/class/npm-package-loader/npmpackage)&gt; |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#9733; Parameter(s)**
 
@@ -110,7 +110,7 @@
 
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| - | [NPMPackageDependency](/aot/system/class/npm-package-loader/npmpackagedependency) &#124; null | ✘  | ✘ | ✘ |
+| - | [NPMPackageDependency](https://shahabganji.gitbook.io/sample/aot/system/class/npm-package-loader/npmpackagedependency) &#124; null | ✘  | ✘ | ✘ |
 
 &nbsp;&nbsp; **&#10148; resolvePackagePath**
 
@@ -124,7 +124,7 @@
 
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| - | [NPMPackageDependency](/aot/system/class/npm-package-loader/npmpackagedependency) | ✘  | ✘ | ✘ |
+| - | [NPMPackageDependency](https://shahabganji.gitbook.io/sample/aot/system/class/npm-package-loader/npmpackagedependency) | ✘  | ✘ | ✘ |
 
 &nbsp;&nbsp; **&#10148; resolvePackagePathCore**
 
@@ -138,4 +138,4 @@
 
 | Modifier(s)                              | Type                        | Optional                           | Rest                          | Parameter Property                          |
 |------------------------------------------|-----------------------------|:----------------------------------:|:-----------------------------:|:-------------------------------------------:|
-| - | [NPMPackageDependency](/aot/system/class/npm-package-loader/npmpackagedependency) | ✘  | ✘ | ✘ |
+| - | [NPMPackageDependency](https://shahabganji.gitbook.io/sample/aot/system/class/npm-package-loader/npmpackagedependency) | ✘  | ✘ | ✘ |

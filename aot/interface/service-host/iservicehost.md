@@ -1,6 +1,6 @@
 | Modifier(s)                            | Extends                                    |
 |----------------------------------------|--------------------------------------------|
-| export | [IModuleResolver](/aot/interface/service-host/imoduleresolver), any |
+| export | [IModuleResolver](https://shahabganji.gitbook.io/sample/aot/interface/service-host/imoduleresolver), any |
 
 # &#10025; Method(s)
 
@@ -56,7 +56,7 @@
 
 | Return Type                       |
 |-----------------------------------|
-| Promise&lt;[$ESModule](/aot/vm/ast/class/modules/usdesmodule)&gt; |
+| Promise&lt;[$ESModule](https://shahabganji.gitbook.io/sample/aot/vm/ast/class/modules/usdesmodule)&gt; |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **&#9733; Parameter(s)**
 
