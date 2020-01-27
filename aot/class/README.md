@@ -1,4 +1,4 @@
 |                                                                            |                                              |
 | -------------------------------------------------------------------------- | -------------------------------------------- |
-| [EntrySourceFileProvider](/sample/aot/class/entrysourcefileprovider)       | [ServiceHost](/sample/aot/class/servicehost) |
+| [EntrySourceFileProvider](/sample/aot/class/service-host/entrysourcefileprovider)       | [ServiceHost](/sample/aot/class/service-host/servicehost) |
 | [SpecificSourceFileProvider](/sample/aot/class/specificsourcefileprovider) |                                              |

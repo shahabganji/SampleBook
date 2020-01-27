@@ -1,3 +1,3 @@
 |                                                          |                                                    |
 | -------------------------------------------------------- | -------------------------------------------------- |
-| [IModuleResolver](/sample/aot/interface/imoduleresolver) | [IServiceHost](/sample/aot/interface/iservicehost) |
+| [IModuleResolver](/sample/aot/interface/service-host/imoduleresolver) | [IServiceHost](/sample/aot/interface/service-host/iservicehost) |
