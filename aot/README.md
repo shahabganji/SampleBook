@@ -4,7 +4,7 @@
 
 |                                                                            |                                                                       |
 | -------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| [EntrySourceFileProvider](/sample/aot/class/entrysourcefileprovider)       | [File](/sample/aot/system/class/file)                                 |
+| [EntrySourceFileProvider](/sample/aot/class/entrysourcefileprovider)       | [File](/aot/system/class/file-system/file.md)                                 |
 | [NPMPackage](/sample/aot/system/class/npmpackage)                          | [NPMPackageDependency](/sample/aot/system/class/npmpackagedependency) |
 | [NPMPackageLoader](/sample/aot/system/class/npmpackageloader)              | [NodeFileSystem](/sample/aot/system/class/nodefilesystem)             |
 | [PatternMatcher](/sample/aot/system/class/patternmatcher)                  | [ServiceHost](/sample/aot/class/servicehost)                          |
