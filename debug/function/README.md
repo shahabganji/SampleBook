@@ -1,3 +1,0 @@
-|                                                                    |     |
-| ------------------------------------------------------------------ | --- |
-| [stringifyLifecycleFlags](/debug/function/stringifylifecycleflags) |     |
